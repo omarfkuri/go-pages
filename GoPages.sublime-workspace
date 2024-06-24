@@ -1,0 +1,1391 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"In",
+				"Init"
+			],
+			[
+				"Locale",
+				"LoadLocales"
+			],
+			[
+				"ctx",
+				"ctx.Request"
+			],
+			[
+				"Print",
+				"Println"
+			],
+			[
+				"web",
+				"website_index"
+			],
+			[
+				"StatusNo",
+				"StatusNotFound"
+			],
+			[
+				"for",
+				"forr\tfor _, var := range var"
+			],
+			[
+				"map",
+				"map[string]interface{}"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"pac",
+				"package router"
+			],
+			[
+				"block",
+				"tblockend\t{{block \"name\"}} ... {{end}}"
+			],
+			[
+				"Prin",
+				"Println"
+			],
+			[
+				"type",
+				"\"type\""
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"Tem",
+				"Templates().templates"
+			],
+			[
+				"C",
+				"Close"
+			],
+			[
+				"Pr",
+				"Printf"
+			],
+			[
+				"pack",
+				"package server"
+			],
+			[
+				"Tech",
+				"Technology"
+			],
+			[
+				"media",
+				"mediaPhone\tMedia query for mobile"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"se",
+				"\"selector\""
+			],
+			[
+				"T",
+				"Technologies"
+			],
+			[
+				"P",
+				"Project{}"
+			],
+			[
+				"make",
+				"make([]Project, 0)"
+			],
+			[
+				"Proje",
+				"Projects"
+			],
+			[
+				"Tec",
+				"Technology"
+			],
+			[
+				"b",
+				"\"build_systems\""
+			],
+			[
+				"replace",
+				"replaceWith"
+			],
+			[
+				"appen",
+				"appendChild"
+			],
+			[
+				"p",
+				"\"private\""
+			],
+			[
+				"n",
+				"\"name\""
+			],
+			[
+				"fon",
+				"\"font_style\""
+			],
+			[
+				"s",
+				"strip"
+			],
+			[
+				"he",
+				"header_content"
+			],
+			[
+				"f",
+				"format"
+			],
+			[
+				"var",
+				"\"variants\""
+			],
+			[
+				"she",
+				"shell_cmd"
+			],
+			[
+				"c",
+				"children"
+			],
+			[
+				"shad",
+				"shadow_offset"
+			],
+			[
+				"selec",
+				"selection_border_width"
+			],
+			[
+				"write",
+				"write"
+			],
+			[
+				"shell",
+				"\"shell_cmd\""
+			],
+			[
+				"name",
+				"\"name\""
+			],
+			[
+				"tar",
+				"target"
+			],
+			[
+				"active",
+				"active_view"
+			],
+			[
+				"list",
+				"listdir"
+			],
+			[
+				"sublime_p",
+				"sublime_plugin"
+			],
+			[
+				"project",
+				"project_file_name"
+			],
+			[
+				"cu",
+				"curdir"
+			],
+			[
+				"mess",
+				"message_dialog"
+			],
+			[
+				"message",
+				"error_message"
+			],
+			[
+				"show",
+				"show_popup"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"t",
+				"\"target\""
+			],
+			[
+				"e",
+				"\"env\""
+			],
+			[
+				"proj",
+				"project_path"
+			],
+			[
+				"file",
+				"file_path"
+			],
+			[
+				"fi",
+				"file_name"
+			],
+			[
+				"act",
+				"active_view"
+			],
+			[
+				"autodir",
+				"autodir"
+			],
+			[
+				"wri",
+				"write"
+			],
+			[
+				"read",
+				"read"
+			],
+			[
+				"Text",
+				"TextCommand"
+			],
+			[
+				"ch",
+				"\"children\""
+			],
+			[
+				"get_",
+				"get_macro"
+			],
+			[
+				"new",
+				"newAt"
+			],
+			[
+				"clip",
+				"set_clipboard"
+			],
+			[
+				"args",
+				"argsPrompt"
+			],
+			[
+				"error",
+				"error_message"
+			],
+			[
+				"re",
+				"replace"
+			],
+			[
+				"wrt",
+				"writeFile"
+			],
+			[
+				"bash",
+				"bashAt"
+			],
+			[
+				"abs",
+				"abstractmethod"
+			],
+			[
+				"Window",
+				"WindowCommand"
+			],
+			[
+				"Error",
+				"error"
+			],
+			[
+				"autoMa",
+				"autoMakeDirs"
+			],
+			[
+				"Wind",
+				"WindowCommand"
+			],
+			[
+				"id",
+				"\"id\""
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"chil",
+				"\"children\""
+			],
+			[
+				"ca",
+				"\"caption\""
+			],
+			[
+				"layer",
+				"layer.opacity"
+			],
+			[
+				"font_size_",
+				"font_size_sm"
+			],
+			[
+				"font",
+				"font.size"
+			],
+			[
+				"m",
+				"modified"
+			],
+			[
+				"final",
+				"finalCommand"
+			],
+			[
+				"readF",
+				"readFile"
+			],
+			[
+				"pro",
+				"project_path"
+			],
+			[
+				"fil",
+				"file_name"
+			],
+			[
+				"caption",
+				"\"caption\""
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "router.go",
+			"settings":
+			{
+				"buffer_size": 2027,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAE8AAAAAAAAAUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATwAAAAAAAABPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"left_delete",
+					null,
+					"AQAAAE8AAAAAAAAATwAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete to Hard BOL.sublime-macro"
+					},
+					"AQAAABkAAAAAAAAAGQAAAAAAAAAgAAAACSJncmVhdC1kYXRhL2ludGVybmFscy9kYXRhYmFzZSI",
+					"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					2,
+					"left_delete",
+					null,
+					"AgAAABkAAAAAAAAAGQAAAAAAAAABAAAAChgAAAAAAAAAGAAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					41,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAANoAAAAAAAAA3AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2gAAAAAAAADaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": "DB"
+					},
+					"AgAAANsAAAAAAAAA3AAAAAAAAAAAAAAA3AAAAAAAAADdAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2wAAAAAAAADbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": " an"
+					},
+					"AwAAAN0AAAAAAAAA3gAAAAAAAAAAAAAA3gAAAAAAAADfAAAAAAAAAAAAAADfAAAAAAAAAOAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3QAAAAAAAADdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"left_delete",
+					null,
+					"AQAAAN8AAAAAAAAA3wAAAAAAAAABAAAAbg",
+					"AQAAAAAAAAABAAAA4AAAAAAAAADgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": "nu"
+					},
+					"AgAAAN8AAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADhAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3wAAAAAAAADfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOAAAAAAAAAA4AAAAAAAAAABAAAAdQ",
+					"AQAAAAAAAAABAAAA4QAAAAAAAADhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": "y"
+					},
+					"AQAAAOAAAAAAAAAA4QAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4AAAAAAAAADgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"insert",
+					{
+						"characters": "DB"
+					},
+					"AwAAAPoAAAAAAAAA+wAAAAAAAAAAAAAA+wAAAAAAAAD7AAAAAAAAABEAAABkYXRhYmFzZS5EYXRhYmFzZfsAAAAAAAAA/AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+gAAAAAAAAALAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					69,
+					1,
+					"paste",
+					null,
+					"AQAAACUBAAAAAAAALQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQEAAAAAAAAlAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					74,
+					1,
+					"insert",
+					{
+						"characters": "DB"
+					},
+					"AwAAADcBAAAAAAAAOAEAAAAAAAAAAAAAOAEAAAAAAAA4AQAAAAAAABEAAABkYXRhYmFzZS5EYXRhYmFzZTgBAAAAAAAAOQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANwEAAAAAAABIAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					88,
+					1,
+					"paste",
+					null,
+					"AQAAAOkBAAAAAAAA8QEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6QEAAAAAAADpAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					95,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AgAAAC8CAAAAAAAAMQIAAAAAAAAAAAAAQgIAAAAAAABEAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAACAAAALwIAAAAAAAAvAgAAAAAAAAAAAAAAAPC/QAIAAAAAAABAAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					98,
+					2,
+					"left_delete",
+					null,
+					"BAAAAEMCAAAAAAAAQwIAAAAAAAABAAAAfTACAAAAAAAAMAIAAAAAAAABAAAAfUECAAAAAAAAQQIAAAAAAAABAAAAey8CAAAAAAAALwIAAAAAAAABAAAAew",
+					"AQAAAAAAAAACAAAAMQIAAAAAAAAxAgAAAAAAAAAAAAAAAPC/RAIAAAAAAABEAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					99,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AgAAAC8CAAAAAAAAMQIAAAAAAAAAAAAAQgIAAAAAAABEAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAACAAAALwIAAAAAAAAvAgAAAAAAAAAAAAAAAPC/QAIAAAAAAABAAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					100,
+					1,
+					"insert",
+					{
+						"characters": "DB"
+					},
+					"BAAAAEMCAAAAAAAARAIAAAAAAAAAAAAAMAIAAAAAAAAxAgAAAAAAAAAAAABFAgAAAAAAAEYCAAAAAAAAAAAAADECAAAAAAAAMgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAACAAAAMAIAAAAAAAAwAgAAAAAAAAAAAAAAAPC/QwIAAAAAAABDAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					115,
+					1,
+					"paste",
+					null,
+					"AQAAAIACAAAAAAAAiAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgAIAAAAAAACAAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					124,
+					1,
+					"insert",
+					{
+						"characters": "[]"
+					},
+					"CAAAACsDAAAAAAAALAMAAAAAAAAAAAAAGgMAAAAAAAAbAwAAAAAAAAAAAAATAwAAAAAAABQDAAAAAAAAAAAAANMCAAAAAAAA1AIAAAAAAAAAAAAALwMAAAAAAAAwAwAAAAAAAAAAAAAdAwAAAAAAAB4DAAAAAAAAAAAAABUDAAAAAAAAFgMAAAAAAAAAAAAA1AIAAAAAAADVAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAAEAAAA0wIAAAAAAADTAgAAAAAAAAAAAAAAAPC/EwMAAAAAAAATAwAAAAAAAAAAAAAAAPC/GgMAAAAAAAAaAwAAAAAAAAAAAAAAAPC/KwMAAAAAAAArAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					126,
+					1,
+					"insert",
+					{
+						"characters": "DB"
+					},
+					"CAAAADIDAAAAAAAAMwMAAAAAAAAAAAAAHwMAAAAAAAAgAwAAAAAAAAAAAAAWAwAAAAAAABcDAAAAAAAAAAAAANQCAAAAAAAA1QIAAAAAAAAAAAAANgMAAAAAAAA3AwAAAAAAAAAAAAAiAwAAAAAAACMDAAAAAAAAAAAAABgDAAAAAAAAGQMAAAAAAAAAAAAA1QIAAAAAAADWAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAAEAAAA1AIAAAAAAADUAgAAAAAAAAAAAAAAAPC/FgMAAAAAAAAWAwAAAAAAAAAAAAAAAPC/HwMAAAAAAAAfAwAAAAAAAAAAAAAAAPC/MgMAAAAAAAAyAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					152,
+					1,
+					"insert",
+					{
+						"characters": "DB"
+					},
+					"BgAAALkFAAAAAAAAugUAAAAAAAAAAAAAugUAAAAAAAC6BQAAAAAAABEAAABkYXRhYmFzZS5EYXRhYmFzZdwEAAAAAAAA3QQAAAAAAAAAAAAA3QQAAAAAAADdBAAAAAAAABEAAABkYXRhYmFzZS5EYXRhYmFzZaoFAAAAAAAAqwUAAAAAAAAAAAAA3QQAAAAAAADeBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAACAAAA3AQAAAAAAADtBAAAAAAAAAAAAAAAAPC/uQUAAAAAAADKBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					158,
+					1,
+					"insert",
+					{
+						"characters": "]"
+					},
+					"AQAAAIQFAAAAAAAAhQUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhAUAAAAAAACEBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					161,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAAIQFAAAAAAAAhgUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhAUAAAAAAACEBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					163,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIUFAAAAAAAAhQUAAAAAAAABAAAAXQ",
+					"AQAAAAAAAAABAAAAhgUAAAAAAACGBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					166,
+					1,
+					"insert",
+					{
+						"characters": "DB"
+					},
+					"AgAAAIUFAAAAAAAAhgUAAAAAAAAAAAAAhgUAAAAAAACHBQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhQUAAAAAAACFBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					175,
+					1,
+					"paste",
+					null,
+					"AQAAAGoAAAAAAAAAcgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAagAAAAAAAABqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					186,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AwAAAIoAAAAAAAAAjAAAAAAAAAAAAAAAnQAAAAAAAACfAAAAAAAAAAAAAACvAAAAAAAAALEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAADAAAAigAAAAAAAACKAAAAAAAAAAAAAAAAAPC/mwAAAAAAAACbAAAAAAAAAAAAAAAAAPC/qwAAAAAAAACrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					187,
+					1,
+					"insert",
+					{
+						"characters": "DB"
+					},
+					"BgAAALAAAAAAAAAAsQAAAAAAAAAAAAAAngAAAAAAAACfAAAAAAAAAAAAAACLAAAAAAAAAIwAAAAAAAAAAAAAALMAAAAAAAAAtAAAAAAAAAAAAAAAoAAAAAAAAAChAAAAAAAAAAAAAACMAAAAAAAAAI0AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAADAAAAiwAAAAAAAACLAAAAAAAAAAAAAAAAAPC/ngAAAAAAAACeAAAAAAAAAAAAAAAAAPC/sAAAAAAAAACwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					194,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAAMoEAAAAAAAAzAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAygQAAAAAAADKBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					197,
+					1,
+					"insert",
+					{
+						"characters": "DB"
+					},
+					"AgAAAMsEAAAAAAAAzAQAAAAAAAAAAAAAzAQAAAAAAADNBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAywQAAAAAAADLBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					224,
+					1,
+					"cut",
+					null,
+					"AQAAAJAAAAAAAAAAkAAAAAAAAABNAAAACgpmdW5jIChzICpTaXRlW0RCXSkgQWRkKHBhZ2UgKlBhZ2VbREJdKSB7CglzLlBhZ2VzID0gYXBwZW5kKHMuUGFnZXMsIHBhZ2UpCn0",
+					"AQAAAAAAAAABAAAA3QAAAAAAAACQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					229,
+					1,
+					"paste",
+					null,
+					"AQAAADkCAAAAAAAAhgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOQIAAAAAAAA5AgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "locale.go",
+			"settings":
+			{
+				"buffer_size": 1338,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Build",
+					""
+				],
+				[
+					"Build & Run",
+					""
+				],
+				[
+					"Run",
+					""
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Build"
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Config"
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Debug Leaks"
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Debug ObjDump"
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Debug GDB"
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Build & Run",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Go",
+					""
+				],
+				[
+					"Go Build",
+					""
+				],
+				[
+					"Go Run",
+					""
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Build"
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Config"
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Debug Leaks"
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Debug GDB"
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Go",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Go",
+					""
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Build"
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Config"
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Debug Leaks"
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Debug GDB"
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Go",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Styles",
+					""
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Build"
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Config"
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Debug Leaks"
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Debug ObjDump"
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Debug GDB"
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Styles",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"rp",
+				"Package Control: Remove Package"
+			],
+			[
+				"A file Icon",
+				"Preferences: A File Icon Settings"
+			],
+			[
+				"Ip",
+				"Package Control: Install Package"
+			],
+			[
+				"select th",
+				"UI: Select Theme"
+			],
+			[
+				"extrac",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"extr",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"openres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"res",
+				"LSP: Restart Server"
+			],
+			[
+				"edit theme",
+				"PackageDev: Edit Current Theme"
+			],
+			[
+				"ccs",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Extract All Packages"
+			],
+			[
+				"rest",
+				"LSP: Restart Server"
+			],
+			[
+				"resta",
+				"LSP: Restart Server"
+			],
+			[
+				"cus",
+				"UI: Customize Theme"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 206.0,
+		"history":
+		[
+			"sublime.run_command(\"run\", {\"text\": \"JAJAJA\"})",
+			"sublime.get_macro()",
+			"sublime",
+			"emmet",
+			"User",
+			"user",
+			"main",
+			"sidebar",
+			"sublime",
+			"Window",
+			"run_this_bash"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/omarfkuri/projects/go-pages"
+	],
+	"file_history":
+	[
+		"/Users/omarfkuri/projects/great-data/internals/server/server.go",
+		"/Users/omarfkuri/projects/great-data/pages/website/users/users.go",
+		"/Users/omarfkuri/projects/great-data/pages/website/index/index.go",
+		"/Users/omarfkuri/projects/great-data/internals/router/router.go",
+		"/Users/omarfkuri/projects/great-data/pages/website/users/styles.less",
+		"/Users/omarfkuri/projects/great-data/pages/website/users/script.ts",
+		"/Users/omarfkuri/projects/great-data/pages/website/users/index.go.html",
+		"/Users/omarfkuri/projects/great-data/pages/website/index/index.go.html",
+		"/Users/omarfkuri/projects/great-data/internals/router/locale.go",
+		"/Users/omarfkuri/projects/great-data/pages/website/index/locale/en.json",
+		"/Users/omarfkuri/projects/great-data/pages/website/website.go",
+		"/Users/omarfkuri/projects/great-data/pages/head.go.html",
+		"/Users/omarfkuri/projects/great-data/internals/router/template.go",
+		"/Users/omarfkuri/projects/great-data/internals/router/info.go",
+		"/Users/omarfkuri/projects/great-data/.air.toml",
+		"/Users/omarfkuri/projects/great-data/pages/website/index/script.ts",
+		"/Users/omarfkuri/projects/great-data/pages/website/index/styles.less",
+		"/Users/omarfkuri/projects/great-data/internals/server/template.go",
+		"/Users/omarfkuri/projects/great-data/internals/database/database.go",
+		"/Users/omarfkuri/projects/great-data/cmd/server/main.go",
+		"/Users/omarfkuri/projects/great-data/internals/router/server.go",
+		"/Users/omarfkuri/projects/great-data/package.json",
+		"/Users/omarfkuri/projects/great-data/build.ts",
+		"/Users/omarfkuri/projects/great-data/pages/website/index/styles.css",
+		"/Users/omarfkuri/projects/great-data/tsconfig.json",
+		"/Users/omarfkuri/projects/great-data/pages/admin/index/index.go.html",
+		"/Users/omarfkuri/projects/great-data/pages/index/index.go",
+		"/Users/omarfkuri/projects/great-data/pages/users/users.go",
+		"/Users/omarfkuri/projects/great-data/pages/admin/index/index.go",
+		"/Users/omarfkuri/projects/great-data/pages/admin/admin.go",
+		"/Users/omarfkuri/projects/great-data/go.mod",
+		"/Users/omarfkuri/projects/great-data/pages/users/index.go.html",
+		"/Users/omarfkuri/projects/great-data/pages/index/index.go.html",
+		"/Users/omarfkuri/projects/great-data/.gitignore",
+		"/Users/omarfkuri/projects/omarfkuri/styles/index.less",
+		"/Users/omarfkuri/projects/omarfkuri/html/pages/index.go.html",
+		"/Users/omarfkuri/projects/omarfkuri/routing/index.go",
+		"/Users/omarfkuri/projects/omarfkuri/routing/routing.go",
+		"/Users/omarfkuri/projects/omarfkuri/main.go",
+		"/Users/omarfkuri/projects/omarfkuri/.air.toml",
+		"/Users/omarfkuri/projects/omarfkuri/app.yaml",
+		"/Users/omarfkuri/projects/omarfkuri/FKuri.sublime-project",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/User/snippets/go-block.sublime-snippet",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/User/Snippets/range.sublime-snippet",
+		"/Users/omarfkuri/projects/omarfkuri/.gitignore",
+		"/Users/omarfkuri/projects/omarfkuri/static/code.js",
+		"/Users/omarfkuri/projects/omarfkuri/html/partial/index.go.html",
+		"/Users/omarfkuri/projects/omarfkuri/pages/index.go.html",
+		"/Users/omarfkuri/projects/omarfkuri/go.mod",
+		"/Users/omarfkuri/projects/omarfkuri/portfolio/pages/index.go.html",
+		"/Users/omarfkuri/projects/print/web/partial/FKuri.sublime-project",
+		"/Users/omarfkuri/projects/print/internal/tool/tool.go",
+		"/Users/omarfkuri/projects/print/internal/database/database.go",
+		"/Users/omarfkuri/projects/print/cmd/server/main.go",
+		"/Users/omarfkuri/projects/print/internal/environment.go",
+		"/Users/omarfkuri/projects/print/internal/tool/environment.go",
+		"/Users/omarfkuri/projects/print/web/scripts/index.ts",
+		"/Users/omarfkuri/projects/print/web/account/index.ts",
+		"/Users/omarfkuri/projects/print/web/index.ts",
+		"/Users/omarfkuri/projects/print/web/partial/meta.go.html",
+		"/Users/omarfkuri/projects/print/web/index.go.html",
+		"/Users/omarfkuri/projects/print/web/account/index.go.html",
+		"/Users/omarfkuri/projects/print/.air.toml",
+		"/Users/omarfkuri/projects/print/internal/auth/errors.go",
+		"/Users/omarfkuri/projects/print/internal/auth/testing/mock_auth_provider.go",
+		"/Users/omarfkuri/projects/print/.gitignore",
+		"/Users/omarfkuri/projects/print/internal/routing/template.go",
+		"/Users/omarfkuri/projects/print/tsconfig.json",
+		"/Users/omarfkuri/projects/print/template/routes/index.ts",
+		"/Users/omarfkuri/projects/print/template/routes/account/index.go.html",
+		"/Users/omarfkuri/projects/print/internal/routing/routing.go",
+		"/Users/omarfkuri/projects/print/views/partial/meta.go.html",
+		"/Users/omarfkuri/projects/print/dist/index.js",
+		"/Users/omarfkuri/projects/print/views/index.go.html",
+		"/Users/omarfkuri/projects/print/dist/index.js.map",
+		"/Users/omarfkuri/projects/print/script/views/index.ts",
+		"/Users/omarfkuri/projects/print/package.json",
+		"/Users/omarfkuri/projects/ubernetes/main.go",
+		"/Users/omarfkuri/projects/ubernetes/Ubernetes.sublime-project",
+		"/Users/omarfkuri/projects/ubernetes/run.sh",
+		"/Users/omarfkuri/projects/ubernetes/index.html",
+		"/Users/omarfkuri/projects/ubernetes/index.templ",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/User/GoTempl.sublime-syntax",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/Custom/Custom.sublime-settings",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/User/scheme/Light.sublime-color-scheme",
+		"/Users/omarfkuri/Documents/Develop/Extracted/C++/C++.sublime-syntax",
+		"/Users/omarfkuri/Documents/Develop/Extracted/Material Theme/MT.py",
+		"/Users/omarfkuri/Documents/Develop/Extracted/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/Custom/context.py",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/User/Adaptive.sublime-theme",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/User/.tmPreferences",
+		"/Users/omarfkuri/Documents/Develop/Extracted/Theme - Default/Default.sublime-theme",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/User/NPM.sublime-build",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/Custom/sidebar.py",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/User/scheme/Dark.sublime-color-scheme",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/User/Side Bar.sublime-menu",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/User/Side Bar Mount Point.sublime-menu",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/Cj/create.py",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/C++/C++.sublime-build",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/JavaScript/JavaScript.sublime-syntax",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/C++/C++ Single File.sublime-build",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/Cj/A++.sublime-build",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/Cj/AC+.sublime-build",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/Cj/CJ.sublime-build",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/User/User.sublime-project",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/Cj/sidebar.py",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/Custom/main.py",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/Custom/main_menu.py",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/Custom/work/WorkWindow.py",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/Custom/work/sidebar.py",
+		"/usr/local/Cellar/python@3.11/3.11.6_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/functools.py",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/Custom/work/main.py",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/Custom/work/context.py",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/Custom/work/cj.py",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/User/settings/Side Bar.sublime-menu",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/Theme - Default/Adaptive.sublime-theme",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/User/work/common/terminal.py",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/User/work/main.py",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/User/work/sidebar.py",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/User/work/cj.py",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/User/main.py",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/User/CJ.sublime-build",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/User/settings/new/New Dev - dark.sublime-color-scheme",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/User/work/common/files.py",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/User/scripts/cj.sh",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/User/work/context.py",
+		"/Users/omarfkuri/Library/Application Support/Sublime Text/Packages/User/CMake.sublime-build"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "router.go",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2027,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1365,
+								1365
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "gopls"
+								}
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///Users/omarfkuri/projects/go-pages/router.go",
+							"show_definitions": false,
+							"syntax": "Packages/Go/Go.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1123.5,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "locale.go",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								397,
+								397
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "gopls"
+								}
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///Users/omarfkuri/projects/go-pages/locale.go",
+							"show_definitions": false,
+							"syntax": "Packages/Go/Go.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 311.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.Terminus Build Results":
+	{
+		"height": 114.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 69.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups-dummy":
+	{
+		"height": 0.0
+	},
+	"output.textarea":
+	{
+		"height": 464.0
+	},
+	"pinned_build_system": "",
+	"project": "GoPages.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 550.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/projects/great-data/GreatData.sublime-project"
+			]
+		],
+		"width": 418.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
