@@ -9,11 +9,11 @@ import (
 	"github.com/labstack/echo/v4/middleware"
 )
 
+const COMPILATION = "compilation.json"
+
 type Compilation struct {
 	Hash string
 }
-
-const COMPILATION = "compilation.json"
 
 func Create[DB any](db *DB, sites... Site[DB]) (*echo.Echo, error) {
 	e := echo.New()
